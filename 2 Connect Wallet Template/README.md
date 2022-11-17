@@ -5,3 +5,5 @@
 ---
 
 This template contains a Unity project that demonstrates how to connect a MetaMask wallet to your Unity game.
+
+You can import this package into your Unity project by going to `Assets > Import Package > Custom Package...` and selecting the `.unitypackage` file.
